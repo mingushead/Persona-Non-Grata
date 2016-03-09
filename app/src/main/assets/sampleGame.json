@@ -1,0 +1,91 @@
+{
+  "gameTitle":"PersonaNonGrata",
+  "chapter1": {
+    "a1": {
+      "text": "Welcome to our game. Please choose a door.",
+      "backgroundImage":"a1",
+      "noOfChoices": "3",
+      "stageOfChapter":"0",
+      "buttons": [
+        {
+          "id": "button1",
+          "text": "Door number 1 please",
+          "destinationSlide": "a2",
+          "destinationChapter": "chapter1"
+        },
+        {
+          "id": "button2",
+          "text": "Door number 2 please",
+          "destinationSlide": "b2",
+          "destinationChapter": "chapter1"
+        },
+        {
+          "id": "button3",
+          "text": "Door number 3 please",
+          "destinationSlide": "c2",
+          "destinationChapter": "chapter1"
+        }
+      ]
+    },
+    "a2": {
+      "text": "You chose the first door. Please continue. textextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextexttextextext",
+      "backgroundImage":"b1",
+      "noOfChoices": "1",
+      "stageOfChapter":"1",
+      "buttons": [
+        {
+          "id": "button1",
+          "text": "If you say so..",
+          "destinationSlide": "a3",
+          "destinationChapter": "chapter1"
+        }
+      ]
+    },
+    "b2": {
+      "text": "You chose the second door. Please continue",
+      "backgroundImage":"b2",
+      "noOfChoices": "1",
+      "stageOfChapter":"1",
+      "buttons": [
+        {
+          "id": "button1",
+          "text": "If you say so..",
+          "destinationSlide": "b3",
+          "destinationChapter": "chapter1"
+        }
+      ]
+    },
+    "c2": {
+      "text": "You chose the third door. Please continue",
+      "backgroundImage":"c2",
+      "noOfChoices": "1",
+      "stageOfChapter":"1",
+      "buttons": [
+        {
+          "id": "button1",
+          "text": "If you say so..",
+          "destinationSlide": "c3",
+          "destinationChapter": "chapter1"
+        }
+      ]
+    },
+    "a3": {
+      "text": "You chose the first door. This is the end of the line, son.",
+      "backgroundImage":"c1",
+      "noOfChoices": "0",
+      "stageOfChapter":"2"
+    },
+    "b3": {
+      "text": "You chose the second door. This is the end of the line, son.",
+      "backgroundImage":"b3",
+      "noOfChoices": "0",
+      "stageOfChapter":"2"
+    },
+    "c3": {
+      "text": "You chose the third door. This is the end of the line, son.",
+      "backgroundImage":"c3",
+      "noOfChoices": "0",
+      "stageOfChapter":"2"
+    }
+  }
+}

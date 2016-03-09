@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PersonaNonGrata</string>
+
+    <string name="forward_button">Forward..</string>
+    <string name="back_button">Back</string>
+    <string name="action_settings">Gaaaaay</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_visual">VisualActivity</string>
+</resources>

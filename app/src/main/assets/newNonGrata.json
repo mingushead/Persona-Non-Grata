@@ -1,0 +1,77 @@
+[
+	{
+		"paths":[
+		  {"targetSlide":"a2","pathText":".."},
+		  {"targetSlide":"b2","pathText":"give me the next story"},
+		  {"targetSlide":"c2","pathText":".....c"}],
+	    "slide":"a1","backgroundImage":"a1","body":"slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1 slide 1  END END END\n\n"
+		},
+	{
+		"paths":[
+		  {"targetSlide":"a3","pathText":"a3"}],
+		"slide":"a2","backgroundImage":"a2","body":"slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2 slide 2  END END END\n\n"
+	},
+  	{
+	  "paths":[
+		{"targetSlide":"a4","pathText":"a4"}],
+	  "slide":"a3","backgroundImage":"a3","body":"slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3 slide 3  END END END  END END END\n\n"
+	},
+    {
+	  "paths":[
+		{"targetSlide":"a5","pathText":"a5"}],
+	  "slide":"a4","backgroundImage":"a4","body":"slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4 slide 4  END END END\n\n"
+	},
+    {
+	  "paths":[
+		{"targetSlide":"a6","pathText":"a6"}],
+	  "slide":"a5","body":"slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 slide 5 END END END\n\n"
+	},
+    {
+	  "paths":[	{"targetSlide":"a7","pathText":"a7"}],
+	  "slide":"a6","backgroundImage":"a6","body":"slide 6"
+	},
+    {
+	  "paths":[],
+	  "slide":"a7","backgroundImage":"a7","body":"slide 7"
+	},
+    {
+	  "paths":[
+		{"targetSlide":"b3","pathText":"b33"}],
+	  "slide":"b2","backgroundImage":"a2","body":"story 2"
+	},
+    {
+	  "paths":[
+		{"targetSlide":"b4","pathText":"b4"}],
+	  "slide":"b3","backgroundImage":"a3","body":"story 2 2"
+	},
+    {
+	  "paths":[
+		{"targetSlide":"b5","pathText":"b5"}],
+	  "slide":"b4","backgroundImage":"a4","body":"story 2 3"
+	},
+    {
+	  "paths":[],
+	  "slide":"b5","backgroundImage":"a5","body":"story 2 4"
+	},
+    {
+	  "paths":[
+		{"targetSlide":"c3","pathText":"c3"}],
+	  "slide":"c2","backgroundImage":"a2","body":"...2"
+	},
+    {
+	  "paths":[
+		{"targetSlide":"c4","pathText":"c4"}],
+	  "slide":"c3","backgroundImage":"a3","body":"...3"
+	},
+    {
+	  "paths":[
+		{"targetSlide":"c5","pathText":"c5"}],
+	  "slide":"c4","backgroundImage":"a4","body":"...4"
+	},
+    {
+	  "paths":[{"targetSlide":"c6","pathText":"c6"}],
+	  "slide":"c5","backgroundImage":"a5","body":"...5"
+	},
+    {
+	  "paths":[],
+	  "slide":"c6","backgroundImage":"a6","body":"...6"}]

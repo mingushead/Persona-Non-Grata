@@ -1,0 +1,74 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:buttonStyle">@style/MyButtonStyle</item>
+        <item name="android:textViewStyle">@style/MyTextViewStyle</item>
+        <item name="android:scrollViewStyle">@style/MyScrollViewStyle</item>
+
+    </style>
+
+    <style name="AppThemeNegative" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:buttonStyle">@style/MyButtonStyleNegative</item>
+        <item name="android:textViewStyle">@style/MyTextViewStyleNegative</item>
+        <item name="android:scrollViewStyle">@style/MyScrollViewStyleNegative</item>
+
+    </style>
+
+    <style name="MyTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:lineSpacingMultiplier">1.5</item>
+        <item name="android:paddingRight">15dp</item>
+        <item name="android:paddingLeft">35dp</item>
+        <item name="fontPath">fonts/Bookerly-Regular.ttf</item>
+    </style>
+    <style name="MyRelativeViewStyle">
+        <item name="android:background">#fff</item>
+    </style>
+
+    <style name="MyRelativeViewStyleNegative">
+        <item name="android:background">#000</item>
+    </style>
+
+    <style name="MyScrollViewStyle" parent="android:Widget.ScrollView">
+        <item name="android:background">#ffff</item>
+        <item name="android:layout_margin">0dp</item>
+    </style>
+
+    <style name="MyScrollViewStyleNegative" parent="android:Widget.ScrollView">
+        <item name="android:background">#f000</item>
+        <item name="android:layout_margin">0dp</item>
+    </style>
+
+    <style name="MyButtonStyle" parent="android:Widget.Button">
+        <item name="fontPath">fonts/Bookerly-Regular.ttf</item>
+        <item name="android:background">#0fff</item>
+        <item name="android:textColor">#000</item>
+    </style>
+
+    <style name="MyTextViewStyleNegative" parent="android:Widget.TextView">
+        <item name="android:textSize">15dp</item>
+        <item name="android:lineSpacingMultiplier">1.5</item>
+        <item name="android:paddingRight">15dp</item>
+        <item name="android:paddingLeft">35dp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="fontPath">fonts/Bookerly-Regular.ttf</item>
+    </style>
+
+    <style name="MyButtonStyleNegative" parent="android:Widget.Button">
+
+    <item name="android:layout_margin">10dp</item>
+    <item name="fontPath">fonts/Bookerly-Regular.ttf</item>
+    <item name="android:background">#0000</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="android:buttonStyle">@style/MyButtonStyle</item>
+        <item name="android:textViewStyle">@style/MyTextViewStyle</item>
+    </style>
+
+</resources>
